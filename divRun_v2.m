@@ -1,3 +1,4 @@
+addpath(genpath(pwd));
 %% CODE TO RUN LapSVM AND LapRLSC EXPERIMENTS
 if ~exist('elapnorm','var')
     close all;clear;clc;

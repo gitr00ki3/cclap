@@ -60,7 +60,7 @@ function nldr_interactive_OpeningFcn(hObject, eventdata, handles, varargin)
 % varargin   command line arguments to nldr_interactive (see VARARGIN)
 
 % Add current dir and sub dir to PATH
-% addpath(genpath(pwd));rmpath(genpath([pwd '\.git']));
+addpath(genpath(pwd));
 
 % Choose default command line output for nldr_interactive
 handles.output = hObject;
