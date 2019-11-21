@@ -1,12 +1,12 @@
 # CCLap
 Cross-covariance based affinity to exploit the unexplored graph Laplacian connectivity
 ## Requirements
-Matlab > R2016a
+Matlab > R2016a<br/>
 Compatible C++ Mex compiler
 ## How to use?
-Run **setup.m** to perform initial setup.
-Run **nldr_interactive.m** to open the interactive window. <img src="HowTo.jpg"></img>
-Run **divRun_v2.m** to obtain classifier's performance
+Run **setup.m** to perform initial setup.<br/>
+Run **divRun_v2.m** to obtain classifier's performance.
+Run **nldr_interactive.m** to open the interactive window. <img src="HowTo.jpg"></img><br/>
 ## References
 <ol>
 	<li>Manifold Regularization: a Geometric Framework for Learning from Examples, M. Belkin, P. Niyogi, V. Sindhwani, University of Chicago Computer Science Technical Report TR-2004-06, 2004, http://manifold.cs.uchicago.edu/manifold_regularization/manifold.html</li>
