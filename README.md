@@ -5,8 +5,8 @@ Matlab > R2016a<br/>
 Compatible C++ Mex compiler
 ## How to use?
 Run **setup.m** to perform initial setup.<br/>
-Run **divRun_v2.m** to obtain classifier's performance.
-Run **nldr_interactive.m** to open the interactive window. <img src="HowTo.jpg"></img><br/>
+Run **divRun_v2.m** to obtain classifier's performance.<br/>
+Run **nldr_interactive.m** to open the interactive window<br/><img src="HowTo.jpg"></img>
 ## References
 <ol>
 	<li>Manifold Regularization: a Geometric Framework for Learning from Examples, M. Belkin, P. Niyogi, V. Sindhwani, University of Chicago Computer Science Technical Report TR-2004-06, 2004, http://manifold.cs.uchicago.edu/manifold_regularization/manifold.html</li>
