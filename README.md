@@ -6,7 +6,28 @@ Compatible C++ Mex compiler
 ## How to use?
 Run **setup.m** to perform initial setup.<br/>
 Run **divRun_v2.m** to obtain classifier's performance.<br/>
-Run **nldr_interactive.m** to open the interactive window<br/><img src="HowTo.jpg"></img>
+Run **nldr_interactive.m** to open the interactive window.<br/>
+<figure>
+  <img src="HowTo.jpg" style="width:100%">
+  <figcaption>nldr_interactive.m</figcaption>
+</figure>
+## Classifier results
+<figure>
+  <img src="./results/LapSVM_T.jpg" style="width:100%">
+  <figcaption>Mean error(± Standard deviation) LapSVM (Test)</figcaption>
+</figure>
+<figure>
+  <img src="./results/LapSVM_U.jpg" style="width:100%">
+  <figcaption>Mean error(± Standard deviation) LapSVM (Unlabeled)</figcaption>
+</figure>
+<figure>
+  <img src="./results/LapRLSC_T.jpg" style="width:100%">
+  <figcaption>Mean error(± Standard deviation) LapRLSC (Test)</figcaption>
+</figure>
+<figure>
+  <img src="./results/LapRLSC_U.jpg" style="width:100%">
+  <figcaption>Mean error(± Standard deviation) LapRLSC (Unlabeled)</figcaption>
+</figure>
 ## References
 <ol>
 	<li>Manifold Regularization: a Geometric Framework for Learning from Examples, M. Belkin, P. Niyogi, V. Sindhwani, University of Chicago Computer Science Technical Report TR-2004-06, 2004, http://manifold.cs.uchicago.edu/manifold_regularization/manifold.html</li>
