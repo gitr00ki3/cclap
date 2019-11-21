@@ -9,25 +9,25 @@ Run **divRun_v2.m** to obtain classifier's performance.<br/>
 Run **nldr_interactive.m** to open the interactive window.<br/>
 <figure>
   <img src="HowTo.jpg" style="width:100%">
-  <figcaption>nldr_interactive.m</figcaption>
-</figure>
+  <figcaption>Figure: nldr_interactive.m</figcaption>
+</figure><br/>
 ## Classifier results
 <figure>
+  <figcaption>Table: Mean error(± Standard deviation) LapSVM (Test)</figcaption>
   <img src="./results/LapSVM_T.jpg" style="width:100%">
-  <figcaption>Mean error(± Standard deviation) LapSVM (Test)</figcaption>
-</figure>
+</figure><br/>
 <figure>
+  <figcaption>Table: Mean error(± Standard deviation) LapSVM (Unlabeled)</figcaption>
   <img src="./results/LapSVM_U.jpg" style="width:100%">
-  <figcaption>Mean error(± Standard deviation) LapSVM (Unlabeled)</figcaption>
-</figure>
+</figure><br/>
 <figure>
+  <figcaption>Table: Mean error(± Standard deviation) LapRLSC (Test)</figcaption>
   <img src="./results/LapRLSC_T.jpg" style="width:100%">
-  <figcaption>Mean error(± Standard deviation) LapRLSC (Test)</figcaption>
-</figure>
+</figure><br/>
 <figure>
+  <figcaption>Table: Mean error(± Standard deviation) LapRLSC (Unlabeled)</figcaption>
   <img src="./results/LapRLSC_U.jpg" style="width:100%">
-  <figcaption>Mean error(± Standard deviation) LapRLSC (Unlabeled)</figcaption>
-</figure>
+</figure><br/>
 ## References
 <ol>
 	<li>Manifold Regularization: a Geometric Framework for Learning from Examples, M. Belkin, P. Niyogi, V. Sindhwani, University of Chicago Computer Science Technical Report TR-2004-06, 2004, http://manifold.cs.uchicago.edu/manifold_regularization/manifold.html</li>
