@@ -11,7 +11,7 @@ Run **nldr_interactive.m** to open the interactive window.<br/>
   <img src="HowTo.jpg" style="width:100%">
   <figcaption>Figure: nldr_interactive.m</figcaption>
 </figure><br/>
-## Classifier results
+## Classifier results<br/>
 <figure>
   <figcaption>Table: Mean error(± Standard deviation) LapSVM (Test)</figcaption>
   <img src="./results/LapSVM_T.jpg" style="width:100%">
